@@ -29,7 +29,7 @@ python main.py
 
 ### Experiments
 |Method|Non-local|mIoU|
-|-----|-----|-----
+|:-----:|:-----:|:-----:
 |DRN|✗||
 |DRN|✓||
 
