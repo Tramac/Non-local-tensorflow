@@ -30,8 +30,9 @@ python main.py
 ### Experiments
 |Method|Non-local|mIoU|
 |:-----:|:-----:|:-----:
-|DRN|✗||
+|DRN|✗|7.31|
 |DRN|✓||
+The result is so terrible, I have no idea about it, what's wrong with this? Is it because there is no pretrainig?
 
 ### To Do
 - [ ] COCO
