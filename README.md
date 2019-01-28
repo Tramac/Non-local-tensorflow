@@ -38,4 +38,4 @@ python main.py
 - [ ] ADE
 
 ### Reference
-*[Non-local_pytorch](https://github.com/AlexHex7/Non-local_pytorch)
+* [Non-local_pytorch](https://github.com/AlexHex7/Non-local_pytorch)
