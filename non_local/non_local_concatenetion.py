@@ -3,7 +3,7 @@ from __future__ import absolute_import
 from __future__ import print_function
 
 import tensorflow as tf
-from layers import ConvBlock, MaxPool
+from utils.layers import ConvBlock, MaxPool
 
 
 class NonLocalBlockND(object):
