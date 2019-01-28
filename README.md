@@ -31,9 +31,9 @@ python main.py
 |Method|Non-local|mIoU|
 |:-----:|:-----:|:-----:
 |DRN|✗|7.31|
-|DRN|✓||
+|DRN|✓|0.094|
 
-The result is so terrible, I have no idea about it, what's wrong with this? Is it because there is no pretrainig?
+The result is so terrible, non-local has a bad influence, I have no idea about it, what's wrong with this? Is it because there is no pretrainig?
 
 ### To Do
 - [ ] COCO
